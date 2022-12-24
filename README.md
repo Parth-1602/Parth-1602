@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I’m Parth</h1> 
-<h2 align="center">React.JS/Next.JS Developer</h2>  
+<h2 align="center">Full Stack Developer</h2>  
    
 
 ➢ I love learning new things and technology<br>
