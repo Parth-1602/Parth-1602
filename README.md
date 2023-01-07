@@ -1,5 +1,6 @@
 <h1 align="center">👋 Hi, I’m Parth</h1> 
-<h2 align="center">Full Stack Developer <span>|</span> AWS Cloud Engineer <span>|</span> Data Engineer</h2>  
+<h2 align="center">Full Stack Developer <span>|</span> AWS Cloud Engineer <span>|</span> Data Engineer</h2>
+<h2 align="center"><a href="https://parth-sharma.netlify.app/">My Portfolio</a></h2>
    
 
 ➢ I love learning new things and technology<br>
